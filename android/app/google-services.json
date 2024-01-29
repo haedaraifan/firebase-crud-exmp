@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1007421868565",
+    "project_id": "flutter-crud-exmp",
+    "storage_bucket": "flutter-crud-exmp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007421868565:android:821008f43beb7e709f5c1c",
+        "android_client_info": {
+          "package_name": "com.example.firebase_crud_exmp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANsH250L6iewxO_BLyEOxq8cloQ8VrLlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
